@@ -1,0 +1,20 @@
+{
+  "name": "artigo-express-middlewares",
+  "version": "1.0.0",
+  "description": "Artigo traduzido sobre Middlewares no Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node preinstall.js"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "middleware"
+  ],
+  "author": "Suissa",
+  "license": "WFTPL",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
+}
